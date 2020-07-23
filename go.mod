@@ -1,4 +1,4 @@
-module ethash
+module github.com/zillab/ethash
 
 go 1.14
 
